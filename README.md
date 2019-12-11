@@ -29,6 +29,11 @@ Syntax highlighted code block
 
 For more details see [PCB Layouts](https://github.com/cadus/Hardware-Circuit-Boards).
 
+For more details see [Frontend](https://github.com/cadus/remo2hbo_oktopus_frontend).
+
+For more details see [Backend](https://github.com/cadus/remo2hbo_oktopus_boot).
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cadus/cadus.github.io./settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.

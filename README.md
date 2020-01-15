@@ -10,7 +10,7 @@ Hardware and PCB-Layouts can be found here:
 Software Backend for Raspberry Pi:  
 [https://github.com/cadus/remo2hbo_oktopus_boot](https://github.com/cadus/remo2hbo_oktopus_boot)
 
-Software Frontend:
+Software Frontend:  
 [https://github.com/cadus/remo2hbo_oktopus_frontend](https://github.com/cadus/remo2hbo_oktopus_frontend).
 
 In each respitory a wiki with detailed information is provided.

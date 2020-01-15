@@ -1,7 +1,8 @@
 ## Welcome to CADUS Life-Sensor
 
-Life-Sensor is a project currently under development at CADUS Makerspace.
+Life-Sensor is a project currently under development at CADUS Makerspace. It is assambley kit not suited for medical use.
 
+The project started in April 2017 under name remo²hbo (repairable patient monitoring in mobile hospital boxes). Initially, it was a coorporation of CADUS and the Universities of Applied Sciences HTW-Berlin and Beuth Hochschule founded by IFAF Berlin.
 
 
 Hardware and PCB-Layouts can be found here:  
@@ -15,7 +16,8 @@ Software Frontend:
 
 For detailed information see the wiki in the respective respitory.
 
-##Principles  
+## Principles  
+
 * Standard parts  
 * Repairable & Maintainable
 * Open source

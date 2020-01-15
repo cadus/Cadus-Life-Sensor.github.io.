@@ -13,7 +13,10 @@ Software Backend for Raspberry Pi:
 Software Frontend:  
 [https://github.com/cadus/remo2hbo_oktopus_frontend](https://github.com/cadus/remo2hbo_oktopus_frontend).
 
-In each respitory a wiki with detailed information is provided.
+For detailed information see the wiki in the respective respitory.
 
-
-blablabla
+##Principles  
+* Standard parts  
+* Repairable & Maintainable
+* Open source
+* 

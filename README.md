@@ -2,7 +2,7 @@
 
 Life Sensor is a project currently under development at the CADUS Crisis Response Makerspace. It is an assambley kit not suited for medical use.
 
-The project started in April 2017 under name remo²hbo (repairable patient monitoring in mobile hospital boxes). Initially, it was a coorporation of CADUS and the Universities of Applied Sciences HTW-Berlin and Beuth Hochschule, and funded by IFAF Berlin. After the initial research phase, the project is now taken care of by a diverse community, contributing directly in Berlin and remotely likewise. More context information is provided on https://www.cadus.org/de/life-sensor
+The project started in April 2017 under name remo²hbo (repairable patient monitoring in mobile hospital boxes). Initially, it was a coorporation of CADUS and the Universities of Applied Sciences HTW-Berlin and Beuth Hochschule, and funded by IFAF Berlin. After the initial research phase, the project is now taken care of by a diverse community, contributing directly in Berlin and remotely likewise. More context information is provided on https://www.cadus.org/life-sensor
 
 
 Hardware and PCB-Layouts can be found here:  
